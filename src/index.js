@@ -12,4 +12,4 @@ usersRoute(app)
 
 app.get('/', (req, res) => res.send('Olá mundo!'))
 
-app.listen(port, () => console.log(`Express rodando na porta ${port}`))
+app.listen(port, () => console.log(`Express rodando na porta ${port}`)) 
