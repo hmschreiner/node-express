@@ -11,6 +11,8 @@ Para não precisar reiniciar o servidor cada vez que uma mudança é feita, use 
 ## Referências
 [Site Oficial do Node.js](https://nodejs.org)
 
+[Documentação do Express](https://expressjs.com)
+
 [Livro: Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/read)
 
 ## Observações
